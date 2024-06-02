@@ -14,5 +14,5 @@ DS075 <br>
 <img src = "https://github.com/seahyael/22300045_KSA_DS/blob/main/lab13/result/DS075.png">
 
 DS076 <br>
-<img src = "https://github.com/seahyael/22300045_KSA_DS/blob/main/lab13/result/DS076#!.png">
-<img src = "https://github.com/seahyael/22300045_KSA_DS/blob/main/lab13/result/DS076#2.png">
+<img src = "https://github.com/seahyael/22300045_KSA_DS/blob/main/lab13/result/DS076%23!.png">
+<img src = "https://github.com/seahyael/22300045_KSA_DS/blob/main/lab13/result/DS076%232.png">
